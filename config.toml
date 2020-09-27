@@ -72,51 +72,6 @@ publishDir = "docs"
     weight = 2
 
 [[menu.cn]]
-    name = "博客"
-    url = "/cn/post/"
-    weight = 3
-
-[[menu.cn]]
-    name = "读书"
-    url = "/cn/read/"
-    weight = 4
-
-[[menu.cn]]
-    name = "写作"
-    url = "/cn/writing"
-    weight = 5
-
-[[menu.cn]]
-    name = "研究"
-    url = "/cn/research/"
-    weight = 6
-
-[[menu.cn]]
-    name = "工具"
-    url = "/cn/tools/"
-    weight = 7
-
-[[menu.cn]]
-    name = "简历"
-    url = "/cn/cv-cn/Shixiang"
-    weight = 8
-
-[[menu.cn]]
-    name = "公众号"
-    url = "/logo/qrcode.jpg"
-    weight = 9
-
-[[menu.cn]]
-    name = "知乎"
-    url = "https://www.zhihu.com/people/shixiangwang"
-    weight = 10
-
-[[menu.cn]]
-    name = "推荐阅读"
-    url = "/cn/mark"
-    weight = 11
-
-[[menu.cn]]
     name = "English"
     url = "/en/"
     weight = 12
